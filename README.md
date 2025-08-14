@@ -33,7 +33,7 @@
 
 ## 📌 Featured Projects  
 
-- 🥋 **[UFC Fight Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**  
+- 🥋 **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**  
   Predicts the winner between two fighters using historical fight statistics & ML models.  
 
 ---
