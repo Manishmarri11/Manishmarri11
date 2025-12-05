@@ -34,7 +34,10 @@
 ## 📌 Featured Projects  
 
 - 🥋 **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**  
-  Predicts the winner between two fighters using historical fight statistics & ML models.  
+  Predicts the winner between two fighters using historical fight statistics & ML models.
+  
+- **[Doctor-Info-Scraper](https://github.com/Manishmarri11/doctor-info-scraper)**
+  A Python-based scraper that extracts doctor names, specializations, qualifications and emails from public medical directories (ethically done following robots.txt restrictions), enabling healthcare startups and clinics to build accurate provider databases. 
 
 ---
 
