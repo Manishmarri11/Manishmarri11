@@ -10,14 +10,14 @@
 - 🎓 **Sophomore** Computer Science Major  
 - 🤖 Passionate about **AI, Machine Learning, Data Science and Robotics**  
 - 💻 Skilled in **Python, Java, OOP**  
-- 🎓 3.963 Cumulative GPA
+- 🎓 3.83 Cumulative GPA
 
 ---
 
 ## 🛠 Tech Stack  
 
 **Languages**  
-`Python` | `Java`  
+`Python` | `Java` | 'C'  
 
 **Machine Learning / AI**
 `scikit-learn`| `YOLOv8`  
