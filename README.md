@@ -17,7 +17,7 @@
 ## 🛠 Tech Stack  
 
 **Languages**  
-`Python` | `Java` | 'C'  
+`Python` | `Java` | `C` 
 
 **Machine Learning / AI**
 `scikit-learn`| `YOLOv8`  
