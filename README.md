@@ -14,29 +14,34 @@
 
 ---
 
-## 🛠 Tech Stack  
-**Languages**  
+## 🛠 Tech Stack
+**Languages**
 `Python` | `Java` | `C`
 
-**Machine Learning / AI**  
-`scikit-learn` 
+**Machine Learning / AI**
+`scikit-learn` | `KeyBERT` | `Transformers`
 
-**Web & Tools**  
+**Web & Tools**
 `Streamlit` | `Git` | `GitHub`
 
-**Core CS Skills**  
+**Core CS Skills**
 `Object-Oriented Programming (OOP)` | `Data Structures & Algorithms (DSA)`
 
 ---
 
-## 📌 Featured Projects  
-- **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**  
+## 📌 Featured Projects
+
+- **[Hospital Review NLP Analyzer](https://github.com/Manishmarri11/Hospital-Review-NLP-Analyser)**
+  Analyzes patient feedback using KeyBERT to extract sentiment distribution and top positive aspects from hospital reviews.
+
+- **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**
   Predicts the winner between two fighters using historical fight statistics & ML models.
 
-- **[Telco Customer Churn Predictor](https://github.com/Manishmarri11/telco-churn-predictor)**  
+- **[Telco Customer Churn Predictor](https://github.com/Manishmarri11/telco-churn-predictor)**
   Logistic regression pipeline on the IBM Telco dataset that identifies at-risk customers with 0.84 ROC-AUC — catches 79% of churners before they leave.
 
-- **[Doctor-Info-Scraper](https://github.com/Manishmarri11/doctor-info-scraper)**  
+- **[Doctor-Info-Scraper](https://github.com/Manishmarri11/doctor-info-scraper)**
   A Python-based scraper that extracts doctor names, specializations, qualifications and emails from public medical directories (ethically done following robots.txt restrictions), enabling healthcare startups and clinics to build accurate provider databases.
 
+  
 💡 *“Stay curious, Stay foolish.”*
