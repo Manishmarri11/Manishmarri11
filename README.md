@@ -9,35 +9,34 @@
 - 🎓 University of Massachusetts Amherst
 - 🎓 **Sophomore** Computer Science Major  
 - 🤖 Passionate about **AI, Machine Learning, Data Science and Robotics**  
-- 💻 Skilled in **Python, Java, OOP**  
-- 🎓 3.83 Cumulative GPA
+- 💻 Skilled in **Python, Java, C, OOP**  
+- 🎓 3.75 Cumulative GPA
 
 ---
 
 ## 🛠 Tech Stack  
-
 **Languages**  
-`Python` | `Java` | `C` 
+`Python` | `Java` | `C`
 
-**Machine Learning / AI**
-`scikit-learn`| `YOLOv8`  
+**Machine Learning / AI**  
+`scikit-learn` | `YOLOv8`
 
 **Web & Tools**  
-`Streamlit` | `Git` | `GitHub`  
+`Streamlit` | `Git` | `GitHub`
 
 **Core CS Skills**  
-`Object-Oriented Programming (OOP)` | `Data Structures & Algorithms (DSA)`  
+`Object-Oriented Programming (OOP)` | `Data Structures & Algorithms (DSA)`
 
 ---
 
 ## 📌 Featured Projects  
-
 - 🥋 **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**  
   Predicts the winner between two fighters using historical fight statistics & ML models.
-  
-- **[Doctor-Info-Scraper](https://github.com/Manishmarri11/doctor-info-scraper)**
-  A Python-based scraper that extracts doctor names, specializations, qualifications and emails from public medical directories (ethically done following robots.txt restrictions), enabling healthcare startups and clinics to build accurate provider databases. 
 
----
+- 📉 **[Telco Customer Churn Predictor](https://github.com/Manishmarri11/telco-churn-predictor)**  
+  Logistic regression pipeline on the IBM Telco dataset that identifies at-risk customers with 0.84 ROC-AUC — catches 79% of churners before they leave.
+
+- **[Doctor-Info-Scraper](https://github.com/Manishmarri11/doctor-info-scraper)**  
+  A Python-based scraper that extracts doctor names, specializations, qualifications and emails from public medical directories (ethically done following robots.txt restrictions), enabling healthcare startups and clinics to build accurate provider databases.
 
 💡 *“Stay curious, Stay foolish.”*
