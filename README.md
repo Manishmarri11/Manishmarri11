@@ -19,7 +19,7 @@
 `Python` | `Java` | `C`
 
 **Machine Learning / AI**  
-`scikit-learn` | `YOLOv8`
+`scikit-learn` 
 
 **Web & Tools**  
 `Streamlit` | `Git` | `GitHub`
