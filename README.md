@@ -30,10 +30,10 @@
 ---
 
 ## 📌 Featured Projects  
-- 🥋 **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**  
+- **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**  
   Predicts the winner between two fighters using historical fight statistics & ML models.
 
-- 📉 **[Telco Customer Churn Predictor](https://github.com/Manishmarri11/telco-churn-predictor)**  
+- **[Telco Customer Churn Predictor](https://github.com/Manishmarri11/telco-churn-predictor)**  
   Logistic regression pipeline on the IBM Telco dataset that identifies at-risk customers with 0.84 ROC-AUC — catches 79% of churners before they leave.
 
 - **[Doctor-Info-Scraper](https://github.com/Manishmarri11/doctor-info-scraper)**  
