@@ -31,15 +31,14 @@
 
 ## 📌 Featured Projects
 
-- **[Hospital Review NLP Analyzer](https://github.com/Manishmarri11/Hospital-Review-NLP-Analyser)**
-  Analyzes patient feedback using KeyBERT to extract sentiment distribution and top positive aspects from hospital reviews.
-
 - **[UFC Match Outcome Predictor](https://github.com/Manishmarri11/UFC-Match-Outcome-Predictor)**
   Predicts the winner between two fighters using historical fight statistics & ML models.
-
 - **[Telco Customer Churn Predictor](https://github.com/Manishmarri11/telco-churn-predictor)**
   Logistic regression pipeline on the IBM Telco dataset that identifies at-risk customers with 0.84 ROC-AUC — catches 79% of churners before they leave.
-
+- **[Claude CLI Agent](https://github.com/Manishmarri11/CLI-Agent)**
+  Conversational CLI agent powered by Claude that implements the ReAct loop — Claude reasons about when to call tools, executes them, and returns a final answer. Currently features a safe math expression evaluator via Claude's native tool-use API.
+- **[Hospital Review NLP Analyzer](https://github.com/Manishmarri11/Hospital-Review-NLP-Analyser)**
+  Analyzes patient feedback using KeyBERT to extract sentiment distribution and top positive aspects from hospital reviews.
 - **[Doctor-Info-Scraper](https://github.com/Manishmarri11/doctor-info-scraper)**
   A Python-based scraper that extracts doctor names, specializations, qualifications and emails from public medical directories (ethically done following robots.txt restrictions), enabling healthcare startups and clinics to build accurate provider databases.
 
